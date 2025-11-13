@@ -39,7 +39,7 @@ This project requires the following:
 Installation
 
  * Clone the repository:
-   git clone []
+   git clone [https://github.com/Tethi04/Calculator-CLI-app/]
 
  * Navigate to the project directory:
    cd Calculator-CLI-App
