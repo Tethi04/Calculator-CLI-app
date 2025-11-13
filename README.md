@@ -40,6 +40,7 @@ Installation
 
  * Clone the repository:
    git clone [https://github.com/Tethi04/Calculator-CLI-app/]
+   [https://tethi04.github.io/Calculator-CLI-app/]
 
  * Navigate to the project directory:
    cd Calculator-CLI-App
